@@ -1,0 +1,1 @@
+due to time constraints i didnt able to convert my modet into .gguf fomat so this notebook have all the codes for training the model and generating the dataset. also in the last section it contains evaluation metrics for evaluate the mode
